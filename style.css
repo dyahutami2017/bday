@@ -1,0 +1,27 @@
+.top {
+    background-color: #D9ACF5;
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5em;
+    font-weight: 600;
+    color: #fff;
+    padding-bottom:5%
+}
+hr{
+    border: 10px solid #645CBB;
+    border-radius: 5px;
+}
+
+.hr-top {
+    width:10%;
+}
+
+.first-card{
+    /* background: radial-gradient(circle at top left, #FFAACF, #D9ACF5);  */
+    background:  #FFAACF; 
+    color: #3A1078;
+}
+
+.card{
+    box-shadow: #3A1078;
+    border: 0 !important;
+}
